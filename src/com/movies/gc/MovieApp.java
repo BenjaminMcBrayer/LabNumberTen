@@ -55,8 +55,6 @@ public class MovieApp {
 
 		System.out.println("Welcome to the Grand Circus Movie List Application!");
 
-		System.out.println(i.getCategory());
-
 		do {
 			// Display categories.
 			displayCategories(categoryNums, categories);
